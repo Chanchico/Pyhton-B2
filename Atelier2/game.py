@@ -1,4 +1,4 @@
-from pawn import Pawn
+from Atelier2.pawn import Pawn
 
 class Game:
     pawns = []
@@ -13,6 +13,8 @@ class Game:
                 n = 0
                 c = 0
                 if i < 3:
+
+            
                     c = 1
                 elif i > 6:
                     c = 2
