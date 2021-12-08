@@ -1,4 +1,4 @@
-from pawn import Pawn
+from Atelier2.pawn import Pawn
 
 class Game:
     pawns = []
